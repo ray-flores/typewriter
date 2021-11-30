@@ -11,6 +11,3 @@ for (let i = 0; i < arr.length; i++) {
     }
   }, (start += 50));
 }
-
-
-
